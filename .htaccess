@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^cupcake?$ index.html
+RewriteRule ^0127Selam8776300c?$ indexEmployee.php
+RewriteRule ^welcome?$ index2.php
+RewriteRule ^selacollege?$ indexcustomer.php
+RewriteRule ^sela0926349887542?$ indexReg.php
+RewriteRule ^sela2346349887542?$ about.php
+RewriteRule ^sela2346349658745887542?$ calendar_of_events.php
+RewriteRule ^sela2346456567542?$ history.php
+RewriteRule ^sela234645463466567542?$ developers.php

@@ -1,0 +1,50 @@
+/*==========================HEADER*/
+#clockdate{
+	float:right;
+}
+.clockdate-wrapper {
+    background-color: #5c007c;
+    padding:7px;
+    text-align:center;
+}
+#clock{
+    background-color:#5c007c;
+    font-family: fantasy;
+    font-size:29px;
+    color:#ffffff;
+}
+#clock span {
+	color:#888;
+	text-shadow:0px 0px 1px #333;
+	font-size:17px;
+	position:relative;
+	top:-7px;
+}
+#date {
+    font-size:13px;
+    font-family:cursive;
+    color:#ffffff;
+}
+nav.navbar-inverse{
+	height:72px;
+	position:fixed;
+	width:100%;
+	top:0;
+	z-index:999;
+}
+.hederimg{
+	margin-top:15px;
+	margin-left:15px;
+}
+.pagevisit{
+	width:100%;
+	background-color:#47d147;
+	margin-top:13px;
+	height:30px;
+}
+.visitcount{
+	text-align:center;
+	color:#ffffb3;
+	font-size:20px;
+	font-weight:bold;
+}
